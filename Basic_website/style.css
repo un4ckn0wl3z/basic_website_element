@@ -1,0 +1,19 @@
+a {
+    color: blue;
+    text-decoration: none; 
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.bg-blue {
+    background-color: blue;
+    color: white;
+}
+
+#title {
+    background-color: green;
+    color: white;
+}
